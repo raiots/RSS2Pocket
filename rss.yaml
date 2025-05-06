@@ -36,4 +36,6 @@
 - url: https://rsshub.app/readhub/daily
   name: ReadHub
   tags: [blog]  
-
+- url: https://www.solidot.org/index.rss
+  name: Solidot
+  tags: [blog]  
