@@ -39,3 +39,7 @@
 - url: https://www.solidot.org/index.rss
   name: Solidot
   tags: [blog]  
+  
+- url: https://supertechfans.com/cn/index.xml
+  name: HackerNews日报
+  tags: [blog] 
